@@ -12,7 +12,7 @@ Web · Telegram Mini Apps · AI · Voice Assistants
 |---------|-------------|------|
 | **mintsHUB** | Live B2C coin valuation platform (web + Telegram Mini App, 3 languages) | [mintshub.com](https://mintshub.com) |
 | **GestureVox Integration** | Voice + gesture desktop assistant — INFOMATRIX 2024 Platinum | [GitHub](https://github.com/IVNsell/GestureVox-Integration) |
-| **NeuroFlow** | Team hackathon project — web platform, auth, forum, AI (INFOMATRIX) | [GitHub](https://github.com/IVNsell/NeuroFlow) |
+| **NeuroFlow** | Team hackathon project — web platform, auth, forum, AI (INFOMATRIX) | [GitHub](https://github.com/IVNsell/NeuroFlow/tree/master) |
 | **Wake Word Engine** | Free custom wake-word detection *(coming soon)* | — |
 ---
 ## 🛠 Stack
